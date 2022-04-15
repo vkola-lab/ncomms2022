@@ -1,0 +1,65 @@
+{   "backbone":{
+        "model":                "CNN",
+        "fil_num":              20,
+        "drop_rate":            0,
+        "lr":                   0.001,
+        "epochs":               101
+    },
+    "ADD":{
+        "fil_num":              30,
+        "drop_rate":            0.5,
+        "batch_size":           32,
+        "lr":                   0.001,
+        "factor":               1,
+        "sampleWeights": {
+                "ADNI":     2,
+                "AIBL":     1,
+                "PPMI":     1,
+                "NIFD":     1,
+                "OASIS":    1,
+                "Stanford": 1,
+                "NACC":     1,
+                "FHS":      1
+        },
+        "out_size":             2,
+        "type":                 "cla"
+    },
+    "COG":{
+        "fil_num":              100,
+        "drop_rate":            0.5,
+        "batch_size":           32,
+        "lr":                   0.001,
+        "sampleWeights": {
+                "ADNI":     1,
+                "AIBL":     1,
+                "PPMI":     1,
+                "NIFD":     1,
+                "OASIS":    1,
+                "Stanford": 1,
+                "NACC":     1,
+                "FHS":      1
+        },
+        "out_size":             1,
+        "type":                 "reg",
+        "factor":               1
+    },
+    "default": {
+        "fil_num":              50,
+        "drop_rate":            0.5,
+        "batch_size":           32,
+        "lr":                   0.001,
+        "out_size":             1,
+        "type":                 "reg",
+        "factor":               1,
+        "sampleWeights": {
+                "ADNI":     1,
+                "AIBL":     1,
+                "PPMI":     1,
+                "NIFD":     1,
+                "OASIS":    1,
+                "Stanford": 1,
+                "NACC":     1,
+                "FHS":      1
+        }
+    }
+}

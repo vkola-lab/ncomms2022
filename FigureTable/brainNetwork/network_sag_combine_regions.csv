@@ -1,0 +1,34 @@
+region after combination,original idx,new idx,color,X,Y
+CG anterior cingulate gyrus,1,1,0,1962,792
+CG posterior cingulate gyrus,2,2,0,1284,635
+FL anterior orbital gyrus; FL inferior frontal gyrus; FL lateral orbital gyrus; FL medial orbital gyrus; FL posterior orbital gyrus,"3,4,5,6,8",3,1,1919,1158
+FL middle frontal gyrus,7,4,1,1959,617
+FL pre-subgenual frontal cortex,9,5,1,,
+FL precentral gyrus,10,6,1,1865,333
+FL straight gyrus,11,7,1,2050,1100
+FL superior frontal gyrus,14,8,1,2200,677
+Lateral ventricle excluding temporal horn,15,9,0,1835,874
+Lateral ventricle temporal horn,16,10,0,1569,1067
+OL cuneus,17,11,2,882,747
+OL lateral remainder occipital lobe,18,12,2,719,856
+OL lingual gyrus,19,13,2,840,1000
+PL angular gyrus,20,14,3,1060,600
+PL postcentral gyrus,21,15,3,1683,417
+PL superior parietal gyrus,22,16,3,1160,290
+PL supramarginal gyrus,23,17,3,1375,420
+TL amygdala,24,18,4,1635,1043
+TL anterior temporal lobe lateral part; TL anterior temporal lobe medial part,"25, 26",19,4,1741,1095
+TL fusiform gyrus,27,20,4,1139,955
+TL hippocampus,28,21,4,1500,995
+TL middle and inferior temporal gyrus,29,22,4,1632,1164
+TL parahippocampal and ambient gyrus,30,23,4,1400,1000
+Third ventricle,34,24,0,1550,937
+brainstem excluding substantia nigra,35,25,0,1414,1285
+caudate nucleus,36,26,0,1623,800
+cerebellum,37,27,0,1067,1212
+corpus callosum,38,28,0,1680,717
+insula anterior inferior cortex; insula anterior long gyrus; insula anterior short gyrus; insula middle short gyrus; insula posterior long gyrus; insula posterior short gyrus ,"39,40,41,42,43,44",29,0,1770,960
+nucleus accumbens,45,30,0,,
+putamen,47,31,0,1370,877
+substantia nigra,48,32,0,1484,1088
+thalamus,49,33,0,1550,850

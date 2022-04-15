@@ -1,0 +1,1 @@
+please run PPMI.py to gnerate the meta table for the PPMI cohort

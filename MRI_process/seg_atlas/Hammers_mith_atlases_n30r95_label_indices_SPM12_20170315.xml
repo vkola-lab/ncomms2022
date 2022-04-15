@@ -1,0 +1,95 @@
+<label><index>1</index><name>TL hippocampus R</name></label>
+<label><index>2</index><name>TL hippocampus L</name></label>
+<label><index>3</index><name>TL amygdala R</name></label>
+<label><index>4</index><name>TL amygdala L</name></label>
+<label><index>5</index><name>TL anterior temporal lobe medial part R</name></label>
+<label><index>6</index><name>TL anterior temporal lobe medial part L</name></label>
+<label><index>7</index><name>TL anterior temporal lobe lateral part R</name></label>
+<label><index>8</index><name>TL anterior temporal lobe lateral part L</name></label>
+<label><index>9</index><name>TL parahippocampal and ambient gyrus R</name></label>
+<label><index>10</index><name>TL parahippocampal and ambient gyrus L</name></label>
+<label><index>11</index><name>TL superior temporal gyrus middle part R</name></label>
+<label><index>12</index><name>TL superior temporal gyrus middle part L</name></label>
+<label><index>13</index><name>TL middle and inferior temporal gyrus R</name></label>
+<label><index>14</index><name>TL middle and inferior temporal gyrus L</name></label>
+<label><index>15</index><name>TL fusiform gyrus R</name></label>
+<label><index>16</index><name>TL fusiform gyrus L</name></label>
+<label><index>17</index><name>cerebellum R</name></label>
+<label><index>18</index><name>cerebellum L</name></label>
+<label><index>19</index><name>brainstem excluding substantia nigra</name></label>
+<label><index>20</index><name>insula posterior long gyrus L</name></label>
+<label><index>21</index><name>insula posterior long gyrus R</name></label>
+<label><index>22</index><name>OL lateral remainder occipital lobe L</name></label>
+<label><index>23</index><name>OL lateral remainder occipital lobe R</name></label>
+<label><index>24</index><name>CG anterior cingulate gyrus L</name></label>
+<label><index>25</index><name>CG anterior cingulate gyrus R</name></label>
+<label><index>26</index><name>CG posterior cingulate gyrus L</name></label>
+<label><index>27</index><name>CG posterior cingulate gyrus R</name></label>
+<label><index>28</index><name>FL middle frontal gyrus L</name></label>
+<label><index>29</index><name>FL middle frontal gyrus R</name></label>
+<label><index>30</index><name>TL posterior temporal lobe L</name></label>
+<label><index>31</index><name>TL posterior temporal lobe R</name></label>
+<label><index>32</index><name>PL angular gyrus L</name></label>
+<label><index>33</index><name>PL angular gyrus R</name></label>
+<label><index>34</index><name>caudate nucleus L</name></label>
+<label><index>35</index><name>caudate nucleus R</name></label>
+<label><index>36</index><name>nucleus accumbens L</name></label>
+<label><index>37</index><name>nucleus accumbens R</name></label>
+<label><index>38</index><name>putamen L</name></label>
+<label><index>39</index><name>putamen R</name></label>
+<label><index>40</index><name>thalamus L</name></label>
+<label><index>41</index><name>thalamus R</name></label>
+<label><index>42</index><name>pallidum L</name></label>
+<label><index>43</index><name>pallidum R</name></label>
+<label><index>44</index><name>corpus callosum</name></label>
+<label><index>45</index><name>Lateral ventricle excluding temporal horn R</name></label>
+<label><index>46</index><name>Lateral ventricle excluding temporal horn L</name></label>
+<label><index>47</index><name>Lateral ventricle temporal horn R</name></label>
+<label><index>48</index><name>Lateral ventricle temporal horn L</name></label>
+<label><index>49</index><name>Third ventricle</name></label>
+<label><index>50</index><name>FL precentral gyrus L</name></label>
+<label><index>51</index><name>FL precentral gyrus R</name></label>
+<label><index>52</index><name>FL straight gyrus L</name></label>
+<label><index>53</index><name>FL straight gyrus R</name></label>
+<label><index>54</index><name>FL anterior orbital gyrus L</name></label>
+<label><index>55</index><name>FL anterior orbital gyrus R</name></label>
+<label><index>56</index><name>FL inferior frontal gyrus L</name></label>
+<label><index>57</index><name>FL inferior frontal gyrus R</name></label>
+<label><index>58</index><name>FL superior frontal gyrus L</name></label>
+<label><index>59</index><name>FL superior frontal gyrus R</name></label>
+<label><index>60</index><name>PL postcentral gyrus L</name></label>
+<label><index>61</index><name>PL postcentral gyrus R</name></label>
+<label><index>62</index><name>PL superior parietal gyrus L</name></label>
+<label><index>63</index><name>PL superior parietal gyrus R</name></label>
+<label><index>64</index><name>OL lingual gyrus L</name></label>
+<label><index>65</index><name>OL lingual gyrus R</name></label>
+<label><index>66</index><name>OL cuneus L</name></label>
+<label><index>67</index><name>OL cuneus R</name></label>
+<label><index>68</index><name>FL medial orbital gyrus L</name></label>
+<label><index>69</index><name>FL medial orbital gyrus R</name></label>
+<label><index>70</index><name>FL lateral orbital gyrus L</name></label>
+<label><index>71</index><name>FL lateral orbital gyrus R</name></label>
+<label><index>72</index><name>FL posterior orbital gyrus L</name></label>
+<label><index>73</index><name>FL posterior orbital gyrus R</name></label>
+<label><index>74</index><name>substantia nigra L</name></label>
+<label><index>75</index><name>substantia nigra R</name></label>
+<label><index>76</index><name>FL subgenual frontal cortex L</name></label>
+<label><index>77</index><name>FL subgenual frontal cortex R</name></label>
+<label><index>78</index><name>FL subcallosal area L</name></label>
+<label><index>79</index><name>FL subcallosal area R</name></label>
+<label><index>80</index><name>FL pre-subgenual frontal cortex L</name></label>
+<label><index>81</index><name>FL pre-subgenual frontal cortex R</name></label>
+<label><index>82</index><name>TL superior temporal gyrus anterior part L</name></label>
+<label><index>83</index><name>TL superior temporal gyrus anterior part R</name></label>
+<label><index>84</index><name>PL supramarginal gyrus L</name></label>
+<label><index>85</index><name>PL supramarginal gyrus R</name></label>
+<label><index>86</index><name>insula anterior short gyrus L</name></label>
+<label><index>87</index><name>insula anterior short gyrus R</name></label>
+<label><index>88</index><name>insula middle short gyrus L</name></label>
+<label><index>89</index><name>insula middle short gyrus R</name></label>
+<label><index>90</index><name>insula posterior short gyrus L</name></label>
+<label><index>91</index><name>insula posterior short gyrus R</name></label>
+<label><index>92</index><name>insula anterior inferior cortex L</name></label>
+<label><index>93</index><name>insula anterior inferior cortex R</name></label>
+<label><index>94</index><name>insula anterior long gyrus L</name></label>
+<label><index>95</index><name>insula anterior long gyrus R</name></label>

@@ -1,0 +1,58 @@
+region after combination,original idx,new idx,color,X,Y
+CG posterior cingulate gyrus R,2,1,0,1258,1117
+CG posterior cingulate gyrus L,2,2,0,1409,1117
+FL anterior orbital gyrus R,3,3,1,1208,2363
+FL anterior orbital gyrus L,3,4,1,1459,2363
+FL inferior frontal gyrus R,4,5,1,739,2128
+FL inferior frontal gyrus L,4,6,1,1928,2128
+FL lateral orbital gyrus R,5,7,1,938,2267
+FL lateral orbital gyrus L,5,8,1,1729,2267
+FL medial orbital gyrus R,6,9,1,1218,2173
+FL medial orbital gyrus L,6,10,1,1449,2173
+FL posterior orbital gyrus R,8,11,1,1081,2264
+FL posterior orbital gyrus L,8,12,1,1586,2264
+FL pre-subgenual frontal cortex R,9,13,1,1237,2461
+FL pre-subgenual frontal cortex L,9,14,1,1430,2461
+FL precentral gyrus R,10,15,1,951,2072
+FL precentral gyrus L,10,16,1,1716,2072
+FL straight gyrus R,11,17,1,1299,2197
+FL straight gyrus L,11,18,1,1368,2197
+FL subgenual frontal cortex R,13,19,1,1131,2444
+FL subgenual frontal cortex L,13,20,1,1536,2444
+FL superior frontal gyrus R,14,21,1,1121,2536
+FL superior frontal gyrus L,14,22,1,1546,2536
+OL cuneus R,17,23,2,1200,810
+OL cuneus L,17,24,2,1467,810
+OL lateral remainder occipital lobe R,18,25,2,1133,560
+OL lateral remainder occipital lobe L,18,26,2,1534,560
+OL lingual gyrus R,19,27,2,970,750
+OL lingual gyrus L,19,28,2,1697,750
+TL amygdala R,24,29,3,1135,1757
+TL amygdala L,24,30,3,1532,1757
+TL anterior temporal lobe lateral part R,25,31,3,980,1709
+TL anterior temporal lobe lateral part L,25,32,3,1687,1709
+TL anterior temporal lobe medial part R,26,33,3,823,1760
+TL anterior temporal lobe medial part L,26,34,3,1844,1760
+TL fusiform gyrus R,27,35,3,728,1510
+TL fusiform gyrus L,27,36,3,1939,1510
+TL hippocampus R,28,37,3,1020,1618
+TL hippocampus L,28,38,3,1647,1618
+TL middle and inferior temporal gyrus R,29,39,3,518,1599
+TL middle and inferior temporal gyrus L,29,40,3,2149,1599
+TL parahippocampal and ambient gyrus R,30,41,3,884,1604
+TL parahippocampal and ambient gyrus L,30,42,3,1783,1604
+TL posterior temporal lobe R,31,43,3,670,1270
+TL posterior temporal lobe L,31,44,3,1997,1270
+TL superior temporal gyrus anterior part R,32,45,3,710,1960
+TL superior temporal gyrus anterior part L,32,46,3,1957,1960
+TL superior temporal gyrus middle part R,33,47,3,693,1673
+TL superior temporal gyrus middle part L,33,48,3,1974,1673
+caudate nucleus R,36,49,0,1263,1943
+caudate nucleus L,36,50,0,1404,1943
+corpus callosum,38,51,0,1306,1743
+pallidum R,46,52,0,1253,1793
+pallidum L,46,53,0,1414,1793
+putamen R,47,54,0,1189,1827
+putamen L,47,55,0,1478,1827
+thalamus R,49,56,0,1196,1556
+thalamus L,49,57,0,1471,1556

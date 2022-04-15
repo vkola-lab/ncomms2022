@@ -1,0 +1,1 @@
+The Framingham Heart Study (FHS) is not a publicly available data center. To access FHS data that is used in this study, please reach out to Kolachalama Lab.

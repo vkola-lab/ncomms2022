@@ -1,0 +1,1 @@
+run the ADNI3.py to get the meta table for the ADNI3 data

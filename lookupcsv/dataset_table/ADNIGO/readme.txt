@@ -1,0 +1,1 @@
+run the ADNIGO.py to get the meta table for the ADNI GO data
