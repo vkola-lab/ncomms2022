@@ -1,9 +1,9 @@
 # Multimodal deep learning for Alzheimer's disease dementia assessment
 
 ## Introduction
-This repository contains the implementation of a **deep learning framework** that accomplishes 2 diagnostic steps to identify persons with normal cognition (NC), mild cognitive impairment (MCI), Alzheimer’s disease (AD) dementia, and non-AD dementia (nADD) which includes vascular dementia, Lewy Body dementia and frontotemporal lobe dementia.  
+This repository contains the implementation of a **deep learning framework** that accomplishes 2 diagnostic steps to identify persons with normal cognition (NC), mild cognitive impairment (MCI), Alzheimer’s disease (AD) dementia, and dementia due to other etiologies (nADD).  
 
-In our paper, we demonstrated that the framework compare favorably with the diagnostic performance of **neurologists and neuroradiologists**. To interpret the model, we conducted **SHAP (SHapley Additive exPlanations)** analysis on brain MRI and other features to reveal disease-specific patterns that correspond with expert’s ratings and biomarker findings.  
+We demonstrated that the framework compares favorably with the diagnostic performance of **neurologists and neuroradiologists**. To interpret the model, we conducted **SHAP (SHapley Additive exPlanations)** analysis on brain MRI and other features to reveal disease-specific patterns that correspond with expert-driven ratings and neuropathological findings.  
 
 <img src="FigureTable/Repo/Figure1.png" width="2000"/>
 
