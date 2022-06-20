@@ -1,6 +1,6 @@
 # Multimodal deep learning for Alzheimer's disease dementia assessment
 
-This work is accepted in *Nature Communications*.
+This work is published in *Nature Communications* (https://doi.org/10.1038/s41467-022-31037-5).
 
 ## Introduction
 This repository contains the implementation of a **deep learning framework** that accomplishes 2 diagnostic steps to identify persons with normal cognition (NC), mild cognitive impairment (MCI), Alzheimer’s disease (AD) dementia, and dementia due to other etiologies (nADD).  
